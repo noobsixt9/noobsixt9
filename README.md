@@ -1,9 +1,7 @@
 # 💫 About Me:
 versatile tech enthusiast deeply passionate about innovation, cybersecurity, and<br>programming. My skills have been demonstrated through participation in national and<br>state-level competitions, alongside organizing workshops and events to promote STEM<br>education. Transitioning into the tech industry, I have acquired hands-on experience in IT and<br>development roles. Additionally, also an independent security researcher.
 
-[![Resume](https://docs.google.com/document/d/12cav0uvU_rXUbdXdTnGw4haoy2zIXP2XfUntYW59s4g/edit#heading=h.5rf9wr4r3no2)
-
-
+Find my resume [here(https://docs.google.com/document/d/12cav0uvU_rXUbdXdTnGw4haoy2zIXP2XfUntYW59s4g/edit#heading=h.5rf9wr4r3no2)]
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahrajanhok) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noobsixt9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@noobsixt9.medium.com) 
 
